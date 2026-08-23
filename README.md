@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Ashish%20Chanchal&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Distributed%20Systems%20%7C%20Cloud%20Architect&descFontSize=16&descAlignY=58" width="100%" alt="Ashish Chanchal Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Chanchal;Software+Engineer+%7C+AI+%26+Distributed+Systems;Full+Stack+%26+Cloud+Solutions+Architect" alt="Ashish Chanchal Typings" />
 
   <p align="center">
     <a href="https://www.ashishchanchal.in"><img src="https://img.shields.io/badge/Portfolio-ashishchanchal.in-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
