@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Chanchal;Software+Engineer+%7C+AI+%26+Distributed+Systems;Full+Stack+%26+Cloud+Solutions+Architect" alt="Ashish Chanchal Typings" />
-
+  <h1>Hi 👋, I'm <span style="color:#00D2FF;">Ashish Chanchal</span></h1>
+  <h3>⚡ Software Engineer | AI & Distributed Systems | Cloud Architect</h3>
+  
   <p align="center">
     <a href="https://www.ashishchanchal.in"><img src="https://img.shields.io/badge/Portfolio-ashishchanchal.in-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/ashishchanchal/"><img src="https://img.shields.io/badge/LinkedIn-Ashish_Chanchal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
