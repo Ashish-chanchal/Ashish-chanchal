@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm <span style="color:#00D2FF;">Ashish Chanchal</span></h1>
-  <h3>⚡ Software Engineer | AI & Distributed Systems | Cloud Architect</h3>
+  <h3>⚡ Software Engineer | AI & Distributed Systems | Problem Solver</h3>
   
   <p align="center">
     <a href="https://www.ashishchanchal.in"><img src="https://img.shields.io/badge/Portfolio-ashishchanchal.in-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -20,15 +20,20 @@
 
 ### 👨‍💻 Professional Summary & Engineering Philosophy
 
-I am a **Software Engineer & AI Systems Developer** specializing in high-concurrency microservices, real-time multimodal conversational voice AI, and scalable cloud architectures on **Microsoft Azure**. With practical engineering experience spanning production startups and government defense research at **DRDO**, I build resilient backend pipelines, optimize low-latency distributed communication (gRPC, WebSockets), and deliver interactive 3D WebGL user interfaces.
+I am a **Software Engineer & AI Systems Developer** specializing in high-concurrency microservices, real-time multimodal conversational voice AI, and robust cloud services on **Microsoft Azure**. With practical engineering experience spanning production startups and government defense research at **DRDO**, I build resilient backend pipelines, optimize low-latency distributed communication (gRPC, WebSockets), and deliver interactive 3D WebGL user interfaces.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🔭 Current Focus:  Microservices (NestJS), Low-Latency Voice AI & Azure Cloud│
-│ 🧠 AI Systems:     Multimodal Function Calling (OpenAI), Signal ML (MNE)    │
-│ ⚡ Core Strengths: Distributed Systems, Scalable Backends, REST/gRPC APIs  │
-│ 🎯 Career Goal:    Software Development Engineer (SDE II) / AI Platform Eng │
-└─────────────────────────────────────────────────────────────────────────────┘
+```zsh
+ashish@macbook:~$ cat developer_profile.json
+{
+  "name": "Ashish Chanchal",
+  "role": "Software Engineer & AI Systems Developer",
+  "location": "Noida, India",
+  "current_focus": ["NestJS Microservices", "Low-Latency Voice AI", "Azure Automation"],
+  "ai_systems": ["OpenAI Multimodal Function Calling", "Signal ML (Python MNE)"],
+  "core_competencies": ["Distributed Systems", "gRPC / WebSockets", "MSSQL / MySQL / Firestore"],
+  "status": "Ready to build high-scale engineering solutions"
+}
+ashish@macbook:~$ _
 ```
 
 ---
