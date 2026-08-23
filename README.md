@@ -73,12 +73,12 @@ Passionate and results-driven **Software Engineer & Full Stack Developer** dedic
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ashish-chanchal&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ashish-chanchal&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashish-chanchal&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-chanchal&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashish-chanchal&theme=radical&hide_border=false" alt="Ashish's Streak" />
+  <img src="https://github-readme-streak-stats-rho.vercel.app/?user=Ashish-chanchal&theme=radical&hide_border=false" alt="Ashish's Streak" />
 </div>
 
 ---
